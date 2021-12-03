@@ -2,7 +2,7 @@ export default {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://my-trips.icaroassis.com.br',
+    url: 'https://my-trips-sandy.vercel.app/',
     site_name: 'My Trips'
   },
   twitter: {
